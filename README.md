@@ -14,6 +14,7 @@
 | 장비·던전 | GearQuest Forever | 장비 업그레이드 목록과 얻는 방법 설명 |
 | | ForeverDungeonJournal | 던전 퀘스트, 우두머리, 공략 메모 |
 | | AtlasLoot | 포에버 던전·우두머리 이름, 명예 계산기, 즐겨찾기 공유 안내 |
+| | OneForAll | 종합 창 전체(던전·전리품·전문기술·특성·사냥꾼 야수 등)와 퀘스트·NPC·아이템 이름(공식 한국어) |
 | 전투·이름표 | Details! | 본체 설정 창과 플러그인 7종 |
 | | Plater | 이름표 설정 창 |
 | | Decursive | 약화 효과 해제 도우미 설정 창 |
@@ -22,7 +23,7 @@
 | 화면 전체 | EllesmereUI | 설정 창과 안내·경고 창 중 커뮤니티 한국어에 빠진 칸 |
 | 편의·채팅 | What's Training, TomTom, Baganator, Posty, Prat, MinimapButtonButton, SpeedyAutoLoot, Leatrix Plus·Maps, Auctionator, RangeDisplay | 설정 창, 안내, 원작 한국어에 빠진 칸 |
 
-모두 27개 항목(애드온 24종)입니다. 내 와우에 설치된 애드온에만 적용됩니다. 게임 언어가 한국어일 때만 한글로 보입니다.
+모두 28개 항목(애드온 25종)입니다. 내 와우에 설치된 애드온에만 적용됩니다. 게임 언어가 한국어일 때만 한글로 보입니다.
 번역은 애드온 코드를 기준으로 만듭니다. 게임에서 영어로 남은 곳을 보면 앱의 [게시판] → [번역 요청]이나 애드온 화면의 [번역 요청]으로 알려 주세요.
 
 ## 처음 받기
